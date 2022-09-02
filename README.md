@@ -7,6 +7,8 @@ MTG API test task
 - gem install thread
 - gem install terminal-table
 - gem install uri
+
+
 to check the working example run like below
 
 ruby test_task_mtg.rb
