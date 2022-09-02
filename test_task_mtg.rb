@@ -111,3 +111,4 @@ TestTask.new.get_rarity_cards
 
 puts "For specific setName and colors".red
 TestTask.new.get_cards_by_colours
+
